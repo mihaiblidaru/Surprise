@@ -4,7 +4,7 @@
 [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
 [![DOI](https://joss.theoj.org/papers/10.21105/joss.02174/status.svg)](https://doi.org/10.21105/joss.02174)
 
-[![logo](./logo_black.svg)](https://surpriselib.com)
+[![logo](https://raw.githubusercontent.com/NicolasHug/Surprise/master/logo_black.svg)](https://surpriselib.com)
 
 Overview
 --------
